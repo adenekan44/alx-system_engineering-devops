@@ -1,2 +1,2 @@
 #!/bin/bash
-#Print the expected absolute path of the current working directory echo "/tmp/correction/7829296846354109973862952745851698758243_5/205/11043"\"/0x00-shell_basics"
+pwd
